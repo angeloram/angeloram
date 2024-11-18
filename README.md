@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Hi, I'm Angelo! <br/><a href="https://github.com/angeloram">Programmer</a>, <a href="https://www.linkedin.com/in/angeloramelb/">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
