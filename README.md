@@ -20,8 +20,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://www.youtube.com/@angelo_ramelb
-[instagram]: https://www.instagram.com/angeloramelb/
-[linkedin]: https://www.linkedin.com/in/angeloramelb/
+[instagram]: https://www.instagram.com/geloram3/
+[linkedin]: https://www.linkedin.com/nangeloramelb/
 
 <!--
 **angeloram/angeloram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
