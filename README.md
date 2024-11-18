@@ -21,7 +21,7 @@
 
 [youtube]: https://www.youtube.com/@angelo_ramelb
 [instagram]: https://www.instagram.com/geloram3/
-[linkedin]: https://www.linkedin.com/angeloramelb/
+[linkedin]: https://www.linkedin.com/in/angeloramelb/
 
 <!--
 **angeloram/angeloram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
