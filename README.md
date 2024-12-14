@@ -6,7 +6,7 @@
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-- <b>C#</b>
+- <b>Java</b>
 
 - <b>Python</b>
 
